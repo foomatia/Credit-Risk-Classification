@@ -21,13 +21,13 @@ balanced_accuracy_score = 0.9514410363025747
 confusion matrix ([18678,  81]
                   [   58, 567])
                   
-                precision  recall  f1-score  support
-0                1.00      1.00      1.00      18759
-1                0.88      0.91      0.89        625
+              | precision | recall | f1-score | support
+0             |  1.00     | 1.00   |   1.00   |   18759
+1             |  0.88     | 0.91   |   0.89   |     625
 
-accuracy                             0.99      19384
-macro avg        0.94      0.95      0.94      19384
-weighted avg     0.99      0.99      0.99      19384
+accuracy                           |   0.99   |   19384
+macro avg     |  0.94     | 0.95   |   0.94   |   19384
+weighted avg  |  0.99     | 0.99   |   0.99   |   19384
 
 ### Machine Learning Model 2: Oversampled Data
 
