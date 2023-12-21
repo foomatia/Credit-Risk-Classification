@@ -18,35 +18,9 @@ Following is a summary of the results of both the datasets that were looked at.
 
 ### Machine Learning Model 1: Original Data
 
-balanced_accuracy_score = 0.9514410363025747
-
-confusion matrix ([18678,  81]
-                  [   58, 567])
-                  
-               precision  recall  f1-score  support
-0               1.00      1.00      1.00      18759
-1               0.88      0.91      0.89        625
-
-accuracy                            0.99      19384
-macro avg       0.94      0.95      0.94      19384
-weighted avg    0.99      0.99      0.99      19384
-
 ![Screenshot 2023-12-21 at 13 49 45](https://github.com/foomatia/Credit-Risk-Classification/assets/108195931/9c7218a1-e45d-4090-912d-e97c6e73e65a)
 
 ### Machine Learning Model 2: Oversampled Data
-
-balanced_accuracy_score = 0.994180571103648
-
-confusion matrix ([55945,   332]
-                  [  323, 55954])
-                  
-                precision  recall  f1-score  support
-0                0.99      0.99      0.99      56277
-1                0.99      0.99      0.99      56277
-
-accuracy                             0.99     112554
-macro avg        0.99      0.99      0.99     112554
-weighted avg     0.99      0.99      0.99     112554
 
 ![Screenshot 2023-12-21 at 13 50 14](https://github.com/foomatia/Credit-Risk-Classification/assets/108195931/6357f8ae-c86f-408a-a3ec-3f358d21c0fa)
 
